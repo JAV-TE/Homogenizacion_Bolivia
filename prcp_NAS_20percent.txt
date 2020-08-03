@@ -1,0 +1,103 @@
+"Abapo"	2.90697674418605
+"Achiri"	5.11363636363636
+"Anzaldo"	2
+"Arani"	2.68817204301075
+"Asencion De Guarayos"	0.45662100456621
+"Ayo Ayo"	0.378787878787879
+"Azurduy"	6.02836879432624
+"Bermejo_Aeropuerto tja"	12.0967741935484
+"Caiza D"	18.4108527131783
+"Camiri Aeropuerto"	1.48401826484018
+"Canias"	3.96825396825397
+"Chaqui"	14.7435897435897
+"Chinoli"	1.66666666666667
+"Chorocona"	7.4468085106383
+"Chuqui Chuqui"	0.775193798449612
+"Circuata"	6.43939393939394
+"Cobija Aeropuerto"	0.219298245614035
+"Cochabamba Aeropuerto"	0.108225108225108
+"Coimata"	0
+"Colcha K"	7.05128205128205
+"Collana"	0
+"Colomi"	5.28455284552846
+"Concepcion_sc"	0.432900432900433
+"Coripata"	5.18518518518519
+"Cristal Mayu"	12.8472222222222
+"Culpina"	9.78260869565217
+"El Alto Aeropuerto"	0
+"El Villar"	4.96031746031746
+"Irupana"	0.563063063063063
+"Isla Del Sol"	17.4242424242424
+"Juntas"	3.21969696969697
+"La Asunta"	17.5724637681159
+"La Torre"	1.45833333333333
+"La Violeta"	0.641025641025641
+"Laykacota"	0
+"Luribay"	0.87719298245614
+"Magdalena"	0.541125541125541
+"Mecapaca"	9.09090909090909
+"Misicuni"	13.5869565217391
+"Mizque"	7.61904761904762
+"Mojo"	1.42543859649123
+"Monteagudo_El Baniado"	12.9084967320261
+"Narvaez"	0.40650406504065
+"Nuevo Mundo"	0.378787878787879
+"Oruro Aeropuerto"	0
+"Padilla"	5.81140350877193
+"Palca Higueras"	14.7286821705426
+"Palmar Grande"	8.33333333333333
+"Parotani"	1.06382978723404
+"Potosi Aeropuerto"	3.92857142857143
+"Potosi Los Pinos"	0.649350649350649
+"Puerto Suarez Aeropuerto"	0.109649122807018
+"Puna"	3.2258064516129
+"Ravelo"	5.93434343434343
+"Redencion Pampa"	0.324675324675325
+"Riberalta"	0.324675324675325
+"Robore"	0
+"Rurrenabaque Aeropuerto"	0.788288288288288
+"San Andres"	0.189393939393939
+"San Benito"	4.08805031446541
+"San Borja"	2.85087719298246
+"San Calixto"	2.04248366013072
+"San Ignacio De Moxos"	1.66666666666667
+"San Ignacio De Velasco"	0.109649122807018
+"San Jacinto Sud"	0.757575757575758
+"San Javier"	0
+"San Joaquin"	1.08225108225108
+"San Jose Alto"	3.03030303030303
+"San Jose de Chiquitos"	0.108225108225108
+"San Lucas"	5.37037037037037
+"San Martin"	15.1162790697674
+"San Pablo de Lipez"	2.4390243902439
+"Santa Ana"	1.53508771929825
+"Santiago De Huata"	6.89102564102564
+"Santiago De Machaca"	0
+"Sella Quebrada"	6.1965811965812
+"Sopachuy"	13.4469696969697
+"Sorata"	10.4166666666667
+"Sucre SENAMHI"	2.74122807017544
+"Talula_Tako Tako"	0
+"Tarabuco"	1.40692640692641
+"Tarapaya"	18.7984496124031
+"Tarata"	0
+"Tarija Aeropuerto"	0
+"Tinguipaya"	2.18253968253968
+"Tiraque"	0.641025641025641
+"Todo Santos_Or"	15.6976744186047
+"Trinidad Aeropuerto"	0.109649122807018
+"Trompillo Aeropuerto"	0.108225108225108
+"Tucumillas"	0.198412698412698
+"Tupiza"	2.92207792207792
+"Uyuni"	1.19047619047619
+"Vallegrande Aeropuerto"	11.9047619047619
+"Villa Serrano"	0.378787878787879
+"Villamontes Aeropuerto"	7.7683615819209
+"Villazon"	0.757575757575758
+"Vinia Quemada"	2.97619047619048
+"Vitichi"	5.59210526315789
+"Yacuiba Aeropuerto"	1.33333333333333
+"Yesera Norte"	6.15079365079365
+"Yocalla"	0.777777777777778
+"Yotala"	3.08219178082192
+"Zudaniez"	1.41843971631206

@@ -8,8 +8,8 @@ https://yadi.sk/d/48VlTrv22CovJg
 
 Los datos aucentes sinbolizadas con "NA".
 
-- Los siguientes Scripts utilizadas para obtener cierto intervalo y el porcentaje de datos ausentes. //
- 1_set_interval_PRCP.r \\
+- Los siguientes Scripts utilizadas para obtener cierto intervalo y el porcentaje de datos ausentes. \
+ 1_set_interval_PRCP.r \
  2_set_interval_TMP.r
 - Los siguientes archivos tienen el nombre de la estacion y el porcentaje de datos aucentes.
  prcp_NAS_20percent.txt

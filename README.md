@@ -5,7 +5,10 @@ Las estaciones con datos faltantes mayor a 20% seran descartadas tanto para Prcp
 
 En el siguiente link de nube se encuentran las estaciones ya filtradas para TMP y PRCP:\
 https://yadi.sk/d/48VlTrv22CovJg
-
+ 
+ 103 estaciones de prcp\
+ 66 estaciones de tmp 
+ 
 Los datos aucentes sinbolizadas con "NA".
 
 - Los siguientes Scripts utilizadas para obtener cierto intervalo y el porcentaje de datos ausentes. \

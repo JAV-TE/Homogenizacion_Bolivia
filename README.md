@@ -25,7 +25,11 @@ Realizar una tabla como tu ex, con  columnas:\
 
 Para ello se tiene el siguinte Archivo o tabla:\
 CORDENADAS MENSUALES.csv 
-Se debe extraer solo los nombres con datos ausentes <= 20% del resultado anterior:.
+Se debe extraer solo los nombres con datos ausentes <= 20% del resultado anterior. \
+Esta tabla se realiza para representar datos de manera espacial: \
+Ejemplo: Precipitacion acumulada anual, etc, y otros resultados.
+
+
 
 
 

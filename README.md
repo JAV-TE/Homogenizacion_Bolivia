@@ -13,18 +13,18 @@ Los datos aucentes sinbolizadas con "NA".
  2_set_interval_TMP.r
 - Los siguientes archivos tienen el nombre de la estacion y el porcentaje de datos aucentes.\
  prcp_NAS_20percent.txt\
- tmp_NAS_20percent.txt\
+ tmp_NAS_20percent.txt
 
 Los siguientes ficheros finales ejemplo de Prcp y Tmp: \
  Abapo_prcp.txt  \
- Arani_tmp.txt \
+ Arani_tmp.txt 
 
 ## 1.1 La siguiente tarea:
 Realizar una tabla como tu ex, con  columnas:\
-[Latitud, Longitud, Altura, Nombre, Codigo, var_PRCP, var_Tmax, var_Tmin] \
+[Latitud, Longitud, Altura, Nombre, Codigo, var_PRCP, var_Tmax, var_Tmin] 
 
 Para ello se tiene el siguinte Archivo o tabla:\
-CORDENADAS MENSUALES.csv \
+CORDENADAS MENSUALES.csv 
 Se debe extraer solo los nombres con datos ausentes <= 20% del resultado anterior:.
 
 

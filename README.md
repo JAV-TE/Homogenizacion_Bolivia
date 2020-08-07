@@ -32,7 +32,8 @@ Se debe extraer solo los nombres con datos ausentes <= 20% del resultado anterio
 Esta tabla se realiza para representar datos de manera espacial: \
 Ejemplo: Precipitacion acumulada anual, etc, y otros resultados.
 
-
+## 1.2 La siguiente tarea:
+Crear los ficheros de entrada para climatool///
 
 
 

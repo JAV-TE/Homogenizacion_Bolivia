@@ -32,8 +32,18 @@ Se debe extraer solo los nombres con datos ausentes <= 20% del resultado anterio
 Esta tabla se realiza para representar datos de manera espacial: \
 Ejemplo: Precipitacion acumulada anual, etc, y otros resultados.
 
-## 1.2 La siguiente tarea:
-Crear los ficheros de entrada para climatool///
+**Uno de los codigos que realiza esta operacion es:**\
+3_set_table.r \
+
+Con entrada: (CORDENADAS_MENSUALES.csv), y los archvos de de PRCP y TMP de la nume rusa. Como resultado se obtine: \
+tabla_cordenadas.txt 
+
+## 1.2 La siguiente tarea para el lunes:
+- Revisar algoritmos de agrupacion de datos espaciales.(para empezar K-means y DBSCAN) \
+- Primero se debe agrupar para luego preparar los archivos .dat y .txt por cada grupo o region.
+- A partir de "tabla_cordenadas.txt" y una cantidad de estaciones de la nube-rusa (unos 5) realizar un codigo en Python o R que da como resultado 
+  a (.est) y (.dat) mensuales.
+- Tambien luis realiza una expocicion.
 
 
 

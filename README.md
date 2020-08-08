@@ -46,5 +46,5 @@ tabla_cordenadas.txt
 - Tambien luis realiza una expocicion.
 
 
-
+**REDUERDE   QUE df NO ES DAFNE, ES UNA DATAFRAME UN TABLA DE DATOS**
 

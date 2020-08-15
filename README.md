@@ -45,6 +45,17 @@ tabla_cordenadas.txt
   a (.est) y (.dat) mensuales.
 - Tambien luis realiza una expocicion.
 
+## 1.2.1 Tarea de Javier
+Para el scrpt :(4_climatool_init.py):
 
-**REDUERDE   QUE df NO ES DAFNE, ES UNA DATAFRAME UN TABLA DE DATOS**
+Con entradas\
+- estaciones_deprueba (carpeta)\
+- tabla_cordenadas.txt
+
+Y salida: \
+- 000_borrar.csv \
+- Ttest-m_1980-2017.dat \
+- Ttest-m_1980-2017.est 
+
+**Existe una observacion**: En "Ttest-m_1980-2017.est" en las cuales los **strings** o cadena de caracteres deben estar separados por comillas dobles "" o simples '', en R lo realiza por defecto. Tambien debe cambiarse el nan por 'nan' por NA.  Se puede realizar este codigo en R usando 'df[df['Nombre']=='Abapo',]['lat'][1,]' para filtrar.****************************************************************
 
